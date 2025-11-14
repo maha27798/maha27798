@@ -113,5 +113,26 @@ OSCP Preparation ██░░░░░░░░░░ 20%
 
  
 
+<div style="
+    background-color:#000000;
+    border:2px solid #00ff6a;
+    padding:20px;
+    border-radius:14px;
+    box-shadow:0 0 20px #00ff6a, inset 0 0 10px #00ff6a;
+    margin-top:25px;">
+  
+  <h3 style="color:#00ff6a; margin-bottom:15px; text-shadow:0 0 10px #00ff6a;">
+    🕶️ Hacker Mindset
+  </h3>
+
+  <p style="color:#d9ffd9; font-size:17px; line-height:1.6; text-shadow:0 0 8px #00ff6a;">
+    <i>“The quiet ones aren’t silent. They’re observing the patterns no one else notices.”</i>
+  </p>
+
+  <p style="color:#84f7a7; text-align:right; margin-top:10px;">
+    — <b>Maha Fatima</b>
+  </p>
+
+</div>
 
 
