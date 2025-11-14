@@ -57,11 +57,29 @@ HTML • CSS • Python (Beginner) • C++
 
 
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats:
+
+<!-- GitHub Stats Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahafatima&show_icons=true&theme=radical" height="165">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahafatima&layout=compact&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahafatima&show_icons=true&theme=react&border_radius=10&hide_title=false" height="170" />
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mahafatima&theme=react&border_radius=10" height="170" />
+</p>
+
+<!-- Most Used Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahafatima&layout=compact&theme=react&border_radius=10&langs_count=8" height="170" />
+</p>
+
+---
+
+## 🧠 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%"/>
 </p>
 
 
