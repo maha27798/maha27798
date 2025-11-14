@@ -129,8 +129,6 @@ Web App Security ███████░░░░░ 60%
 
 TryHackMe Beginner Path ██████░░░░░░ 50%
 
-eJPT Preparation █████░░░░░░░ 40%
-
 OSCP Preparation ██░░░░░░░░░░ 20%
 
 
