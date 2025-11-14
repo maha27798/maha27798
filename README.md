@@ -76,7 +76,7 @@ HTML • CSS • Python (Beginner) • C++
 
 ---
 
-## 🧠 Random Dev Quote
+
 
 <p align="center">
 <h1> <p align="center">
@@ -86,25 +86,6 @@ HTML • CSS • Python (Beginner) • C++
 </p>
 </h1>
 </p>
-
-<div style="
-    background-color:#0d1117;
-    border:1px solid #30363d;
-    padding:20px;
-    border-radius:10px;
-    box-shadow:0 0 10px rgba(0,0,0,0.3);
-    margin-top:20px;">
-    
-  <h3 style="color:#58a6ff; margin-bottom:10px;">🕶️ Random Dev Quote</h3>
-  
-  <p style="color:#c9d1d9; font-size:16px; line-height:1.6;">
-    <i>“The quiet ones aren’t silent. They’re observing the patterns no one else notices.”</i>
-  </p>
-
-  <p style="color:#8b949e; text-align:right; margin-top:10px;">
-    — <b>Maha Fatima</b>
-  </p>
-</div>
 
 
 
@@ -130,11 +111,7 @@ OSCP Preparation ██░░░░░░░░░░ 20%
 - LinkedIn: https://www.linkedin.com/in/maha-fatima-cyberdesign/  
 - Email: mahafatima027@gmail.com
 
-  <h1 align="center"> <strong>“The quiet ones aren’t silent. They’re observing the patterns no one else notices.”</strong></h1> 
-
-<p align="center">
-✨ <strong>Learning. Designing. Hacking. Growing — one step at a time.</strong>
-</p>
+ 
 
 
 
