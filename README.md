@@ -74,19 +74,19 @@ HTML • CSS • Python (Beginner) • C++
   <img src="https://github-readme-stats.vercel.app/api?username=mahafatima&show_icons=true&theme=react&border_radius=10&hide_title=false" height="170" />
 </p>
 
+
 <!-- Streak Stats -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mahafatima&theme=react&border_radius=10" height="170" />
 </p>
+
 
 <!-- Most Used Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahafatima&layout=compact&theme=react&border_radius=10&langs_count=8" height="170" />
 </p>
 
----
 
----
 
 ## 🧰 Languages & Tools I Use
 
