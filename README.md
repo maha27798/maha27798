@@ -2,10 +2,9 @@
 <h1> <p align="center">
   <em><strong>“The quiet ones aren’t silent. They’re observing the patterns no one else notices.”</strong></em>
   <br>
-  <sub>— <h1>Maha Fatima<h1/></sub>
+  <sub>— Maha Fatima</sub>
 </p>
-</h1>
-</p>
+
 
 
 <p align="center">
