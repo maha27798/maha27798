@@ -5,7 +5,7 @@
   <sub>— Maha Fatima</sub>
 </p>
 
-
+----
 
 <p align="center">
   <strong>Software Engineering Student • UI/UX Designer • Cybersecurity Learner (Red Teaming & OSCP Path)</strong>
