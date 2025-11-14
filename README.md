@@ -1,3 +1,4 @@
+                <h1 align="center"> <strong>“The quiet ones aren’t silent. They’re observing the patterns no one else notices.”</strong></h1> 
 <h1 align="center">👋 Hey, I'm <strong>Maha Fatima</strong></h1>
 
 <p align="center">
