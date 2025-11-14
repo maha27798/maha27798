@@ -1,11 +1,8 @@
-              
-<h1 align="center">👋 Hey, I'm <strong>Maha Fatima</strong></h1>
-
 <p align="center">
 <h1> <p align="center">
   <em><strong>“The quiet ones aren’t silent. They’re observing the patterns no one else notices.”</strong></em>
   <br>
-  <sub>— Maha Fatima</sub>
+  <sub>— <h1>Maha Fatima<h1/></sub>
 </p>
 </h1>
 </p>
