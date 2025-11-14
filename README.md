@@ -79,7 +79,12 @@ HTML • CSS • Python (Beginner) • C++
 ## 🧠 Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%"/>
+<h1> <p align="center">
+  <em><strong>“The quiet ones aren’t silent. They’re observing the patterns no one else notices.”</strong></em>
+  <br>
+  <sub>— Maha Fatima</sub>
+</p>
+</h1>
 </p>
 
 
