@@ -62,13 +62,6 @@ HTML • CSS • Python (Beginner) • C++
 - Mini Pentesting Projects  
 
 
-<!-- Most Used Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahafatima&layout=compact&theme=react&border_radius=10&langs_count=8" height="170" />
-</p>
-
-
-
 ## 🧰 Languages & Tools I Use
 
 <p align="center">
