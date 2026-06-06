@@ -27,9 +27,14 @@
 ---
 
 ## 🌐 About Me  
-I’m **Maha Fatima** — a **Software Engineering student**, **UI/UX Designer**, and **Cybersecurity learner** focusing on **Red Teaming** & **OSCP preparation**.
+Cybersecurity enthusiast and Software Engineering graduate with hands-on experience in ethical hacking, web application security, Linux, networking, and security research through internships, practical labs, and self-directed learning.
 
-Currently learning: **Linux**, **Networking**, **Web App Security**, and **Pentesting tools** through TryHackMe, HackThe box Labs, proving ground labs and Kali Linux labs.
+Ranked among the Top 2% of TryHackMe users worldwide with 150+ completed cybersecurity labs. Experienced in vulnerability assessment, reconnaissance, web security testing, and offensive security fundamentals using platforms such as TryHackMe, Hack The Box, and PortSwigger Web Security Academy.
+
+Alongside cybersecurity, I have over one year of experience mentoring students at school, college, and university levels, helping them develop technical and problem-solving skills.
+
+Currently focused on Offensive Security, Red Teaming, and continuous professional development while building practical cybersecurity projects and preparing for advanced industry certifications.
+
 
 
 
