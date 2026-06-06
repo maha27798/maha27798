@@ -8,7 +8,8 @@
 ----
 
 <p align="center">
-  <strong>Software Engineering Student • UI/UX Designer • Cybersecurity Learner (Red Teaming & OSCP Path)</strong>
+  <strong>Cybersecurity Enthusiast | Top 2% TryHackMe | Red Teaming & Offensive Security Learner | Linux • Networking • Web Security • Python | Building practical cybersecurity projects
+</strong>
 </p>
 
 <p align="center">
