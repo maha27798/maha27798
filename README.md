@@ -5,10 +5,8 @@
   <sub>— Maha Fatima</sub>
 </p>
 
-# Hi, I'm Maha Fatima 👋
 
 ## Cybersecurity Learner | Top 2% TryHackMe | Red Teaming Enthusiast
-
 Software Engineering graduate with hands-on experience in cybersecurity, ethical hacking, Linux, networking, and web application security.
 
 ### Highlights
