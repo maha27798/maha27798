@@ -1,8 +1,3 @@
-Haan Maha 😂❤️ **ab samajh gayi!** Tumhara matlab hai ke main **poora README ek hi single code block** mein doon, taake tum **ek hi dafa copy karke GitHub mein paste** karo. Aur us code ke andar **har section visually separate** ho — yani About, Skills, Projects, Stats, Achievements etc. apne apne blocks mein.
-
-**Ye lo — ONE SINGLE COPY-PASTE CODE.** 👇
-
-````markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:1a0000,100:050505&text=MAHA%20FATIMA&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=CYBERSECURITY%20%7C%20OFFENSIVE%20SECURITY%20%7C%20RED%20TEAMING&descAlignY=60&descSize=16&animation=fadeIn"/>
@@ -115,9 +110,6 @@ My long-term goal is to specialize in **Red Team Operations** and pursue the **O
 ┌───────────────────────────┐
 │           OSCP            │
 └───────────────────────────┘
-````
-
-</div>
 
 ---
 
