@@ -304,7 +304,7 @@ My long-term goal is to specialize in **Red Team Operations** and pursue the **O
 
 ---
 
-# 📈 2026 MISSION
+# 📈 2026 to ...... MISSION
 
 <div align="center">
 
