@@ -268,10 +268,6 @@ My long-term goal is to specialize in **Red Team Operations** and pursue the **O
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=maha27798&theme=darkhub&no-frame=true&no-bg=true&margin-w=8"/>
-
-<br><br>
-
 🏆 **TryHackMe Top 2% Global Ranking**
 
 🏅 **TryHackMe Legend (0xD)**
