@@ -250,15 +250,11 @@ My long-term goal is to specialize in **Red Team Operations** and pursue the **O
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maha27798&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3B3B&icon_color=FF3B3B&text_color=FFFFFF&rank_icon=github"/>
-
-<br><br>
 
 <img src="https://streak-stats.demolab.com?user=maha27798&theme=dark&hide_border=true&background=0D1117&ring=FF3B3B&fire=FF3B3B&currStreakLabel=FF3B3B"/>
 
-<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maha27798&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF3B3B&text_color=FFFFFF"/>
+
 
 </div>
 
