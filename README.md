@@ -351,4 +351,4 @@ My long-term goal is to specialize in **Red Team Operations** and pursue the **O
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:050505,50:1a0000,100:050505&section=footer"/>
 
 </div>
-```
+
