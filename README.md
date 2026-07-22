@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 # 👋 Hi, I'm Maha Fatima
@@ -59,8 +58,6 @@ Active Directory Security
 Red Team Operations
         ↓
 OSCP Preparation
-````
-
 ---
 
 ## 🧰 Skills & Tools
