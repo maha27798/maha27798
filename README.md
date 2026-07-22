@@ -68,7 +68,7 @@ My long-term goal is to specialize in **Red Team Operations** and pursue the **O
 
 </div>
 
----
+
 
 ## ⚔️ OFFENSIVE SECURITY ROADMAP
 
@@ -110,6 +110,9 @@ My long-term goal is to specialize in **Red Team Operations** and pursue the **O
 ┌───────────────────────────┐
 │           OSCP            │
 └───────────────────────────┘
+````
+
+</div>
 
 ---
 
@@ -349,5 +352,3 @@ My long-term goal is to specialize in **Red Team Operations** and pursue the **O
 
 </div>
 ```
-
-**Ab ye literally ONE SINGLE CODE BLOCK hai.** Tumhein GitHub par **alag alag kuch paste nahi karna**. Pura block ek saath copy karo → `maha27798/README.md` → **Edit** → purana content delete → paste → **Commit changes**.
