@@ -56,5 +56,52 @@ Web Application Penetration Testing
 Active Directory Security
         ↓
 Red Team Operations
+
+
+🚀 Featured Projects
+🛡️ Professional Pentest Report Generator
+
+A Python-based penetration testing report generator designed to streamline professional security reporting.
+
+Features:
+
+CVSS Scoring
+Severity Classification
+Executive Summaries
+Risk Matrices
+Automated PDF Reports
+ReportLab Integration
+
+Tech: Python • ReportLab • Cybersecurity • Penetration Testing
+
+🌐 OWASP Juice Shop Security Assessment
+
+A security assessment project focused on identifying and documenting web application vulnerabilities using manual and automated security testing techniques.
+
+Focus: Web Security • OWASP • Vulnerability Assessment
+
+🔎 Network Port Scanner
+
+A Python-based network reconnaissance tool designed to identify open ports and understand network scanning fundamentals.
+
+Tech: Python • Networking • Socket Programming
+
+🔐 Python Password Manager
+
+A Python-based password management project focused on credential security and secure application development concepts.
+
+Tech: Python • Security • Cryptography
+
+🌐 Secure API
+
+A secure API development project focused on implementing security practices in web applications and APIs.
+
+Tech: Python • API Security • Web Security
+
+🤖 AI TB Vision
+
+An AI-powered computer vision project designed to assist tuberculosis detection from chest X-ray images.
+
+Tech: Python • YOLO • Computer Vision • Machine Learning
         ↓
 OSCP Preparation
